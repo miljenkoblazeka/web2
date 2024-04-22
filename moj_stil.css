@@ -1,6 +1,7 @@
 body
 {
     background-image: url("racunalo.jpg");
+    /*ovo mi sluzi za poravnanje slike gore desno i da se slika ne ponavlja*/
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat;
